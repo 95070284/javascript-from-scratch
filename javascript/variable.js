@@ -5,3 +5,4 @@ const country="india";
 console.log(name);
 console.log(age);
 console.log(country);   
+name="Abutalib";
