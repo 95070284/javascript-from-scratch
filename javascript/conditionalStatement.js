@@ -24,3 +24,10 @@ else if ( mode === "light" ){
 else {
     console.log(" invalid mode ")
 }
+
+
+// ternary operator
+ 
+let age=18
+
+age=>18?console.log(" Now You can vote"): console.log(" You are not adult so you can not vote ")
